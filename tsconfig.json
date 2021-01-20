@@ -5,7 +5,7 @@
     "module": "esNext",
     "target": "es2017",
     "moduleResolution": "node",
-    "strict": true,
+    "strict": false,
     "noFallthroughCasesInSwitch": true,
     "noImplicitReturns": true,
     "noImplicitAny": true,
